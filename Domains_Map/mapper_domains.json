@@ -1,0 +1,5072 @@
+{
+  "12": {
+    "001": {
+      "marca": "-------",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    }
+  },
+  "14": {
+    "11": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "13": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniradial - Interlagos,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "14": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Estacio - Cotia,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "15": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniradial - Ibiuna,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "16": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "17": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "18": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "19": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "23": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Estacio - Cotia,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "24": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FAMAP,OU=AP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "25": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FASE - Aracaju,OU=SE,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "26": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Via Corpvs,OU=CE,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "27": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Gilberto Gil,OU=BA,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "28": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Juazeiro do Norte,OU=CE,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "29": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniradial - Chacara Flora,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "30": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Moreira Campos,OU=CE,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "32": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=UniRadial Curitiba,OU=PR,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "33": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FIR - Recife,OU=PE,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "34": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Camara Cascudo,OU=RN,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "35": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Parangaba,OU=CE,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "36": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Jatiuca,OU=AL,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "37": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Estacio - Conceicao,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "38": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Fortaleza Centro,OU=CE,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "40": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "41": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "42": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "43": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "44": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "45": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "46": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "47": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FAMAP,OU=AP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "48": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FIR - San Martin,OU=PE,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "49": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "50": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "51": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "52": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "53": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "54": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "55": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "56": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Fratelli Vita,OU=BA,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "57": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "58": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Juazeiro do Norte,OU=CE,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "59": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FAP - Faculdade do Para,OU=PA,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "60": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "61": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "62": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "04": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "06": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "03": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "08": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "09": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "07": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniradial - Vila dos Remedios,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniradial - Santo Amaro,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "05": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniradial - Santo Andre,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "16": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "17": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "18": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "19": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "20": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "21": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "22": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "23": {
+    "10": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "11": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "12": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "14": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "15": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "16": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "17": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "18": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "19": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "20": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "21": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=ANANINDEUA,OU=PA,OU=Users_Accounts,OU=TIER_2,OU=USERS,OU=ESTACIO CORPORATE",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "22": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=IDEZ,OU=PB,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "05": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "08": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "03": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Cuiaba,OU=MT,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "09": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "02": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "06": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "07": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=SEAMA,OU=AM,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "04": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "24": {
+    "03": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Camara Cascudo,OU=RN,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "02": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Camara Cascudo,OU=RN,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Camara Cascudo,OU=RN,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "25": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Fal - Zona Norte,OU=RN,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "26": {
+    "05": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "08": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "03": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "06": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "07": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "04": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "09": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "02": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "27": {
+    "02": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "03": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=SEAMA,OU=AM,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "04": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "28": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=IDEZ,OU=PB,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "29": {
+    "02": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FARGS - CENTRO,OU=RS,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FARGS - ZONA NORTE,OU=RS,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "30": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=UNIUOL,OU=PB,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "31": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Estacio - São Luis,OU=MA,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "02": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Estacio - São Luis,OU=MA,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "32": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FACITEC,OU=DF,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "02": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Asa Sul,OU=DF,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "33": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Santa Catarina,OU=SC,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "34": {
+    "12": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "02": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "03": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "04": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "05": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "07": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Uniseb,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "35": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=IESAM,OU=PA,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "36": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Constantino Nery,OU=AM,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "03": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Constantino Nery,OU=AM,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "04": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Constantino Nery,OU=AM,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "38": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=CEUT,OU=PI,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "39": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FNC - Carapicuiba,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "02": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FNC - Carapicuiba,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "03": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FNC - Carapicuiba,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "40": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Castanhal,OU=PA,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "41": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=FUFS,OU=BA,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "42": {
+    "001": {
+      "marca": "unitoledo.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=UNITOLEDO,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    }
+  },
+  "43": {
+    "10": {
+      "marca": "unifanor.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=UniFanor_CE_Dunas_FDN,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "01": {
+      "marca": "unifanor.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=UniFanor_CE_BezerradeMenzes_FNS,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "02": {
+      "marca": "unifacid.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Facid_PI_HortoFlorestal_THF,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "03": {
+      "marca": "area1.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Area1_BA_Salvador_APL,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "05": {
+      "marca": "unifanor.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=UniFanor_CE_Dunas_FDN,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "06": {
+      "marca": "unifanor.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=UniFanor_CE_Dunas_FDN,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "04": {
+      "marca": "unifbv.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=UniFBV_PE_BoaViagem_FBV,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "07": {
+      "marca": "unifanor.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=UniFanor_CE_Dunas_FDN,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "08": {
+      "marca": "unifanor.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=UniFanor_CE_Dunas_FDN,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "09": {
+      "marca": "unifanor.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=UniFanor_CE_Dunas_FDN,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    }
+  },
+  "44": {
+    "01": {
+      "marca": "fmf.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=MarthaFalcao_AM_Manaus_FMF,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    }
+  },
+  "45": {
+    "01": {
+      "marca": "faculdadeideal.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Faci_PA_Belém_IBC,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "02": {
+      "marca": "faculdadeideal.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Faci_PA_Belém_IBC,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "03": {
+      "marca": "faculdadeideal.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Faci_PA_Belém_IBC,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "04": {
+      "marca": "faculdadeideal.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Faci_PA_Belém_IBC,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "05": {
+      "marca": "faculdadeideal.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Faci_PA_Belém_IBC,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "06": {
+      "marca": "faculdadeideal.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Faci_PA_Belém_IBC,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "07": {
+      "marca": "faculdadeideal.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Faci_PA_Belém_IBC,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    }
+  },
+  "46": {
+    "03": {
+      "marca": "damasio.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Damasio_SP_SaoPaulo_DLI,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "04": {
+      "marca": "damasio.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Damasio_SP_SaoPaulo_DLI,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "05": {
+      "marca": "damasio.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Damasio_SP_SaoPaulo_DLI,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "06": {
+      "marca": "damasio.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Damasio_SP_SaoPaulo_DLI,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "02": {
+      "marca": "damasio.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=DRJ,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "01": {
+      "marca": "damasio.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Damasio_SP_SaoPaulo_DLI,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "07": {
+      "marca": "damasio.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Damasio_SP_SaoPaulo_DLI,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "08": {
+      "marca": "damasio.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Damasio_SP_SaoPaulo_DLI,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "09": {
+      "marca": "damasio.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Damasio_SP_SaoPaulo_DLI,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    }
+  },
+  "47": {
+    "10": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "11": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "12": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "13": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_City_ICA,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "14": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "15": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "16": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "17": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "18": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "19": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "20": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "21": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IPA,OU=IBMEC_SP_FariaLima_IFL,OU=CORPORATE,OU=USERS,DC=EDUC CORPORATE,DC=EDUC,DC=CORP",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "09": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "07": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "02": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_BH_BeloHorizonte_ISE,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "01": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_SP_Paulista_IPA,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "05": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_DF_Brasilia_IAS,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "06": {
+      "marca": "unimetrocamp.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=MVI,OU=Unimetrocamp_SP_Campinas_MVI,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "03": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_BarradaTijuca_IBT,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "04": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "08": {
+      "marca": "ibmec.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=IBMEC_RJ_Centro_ICT,OU=Corporate,OU=Users,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    }
+  },
+  "48": {
+    "01": {
+      "marca": "facimp.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Facimp_MA_Imperatriz_IPS,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    }
+  },
+  "49": {
+    "01": {
+      "marca": "area1.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Area1_BA_Salvador_APL,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "02": {
+      "marca": "area1.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Area1_BA_Salvador_APL,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "03": {
+      "marca": "area1.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Area1_BA_Salvador_APL,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    },
+    "04": {
+      "marca": "area1.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=Area1_BA_Salvador_APL,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    }
+  },
+  "50": {
+    "01": {
+      "marca": "unifavip.edu.br",
+      "domain": "EDUC.CORP",
+      "ou": "OU=UniFavip_PE_Caruaru_CRI,OU=CORPORATE,OU=USERS,OU=EDUC CORPORATE",
+      "grupos_default": [
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_EDUC",
+        "SNOW_EDUC",
+        "Microsoft365_A3_fcty.EDUCcorp.lg",
+        "base.calendario_EDUC",
+        "Todos"
+      ]
+    }
+  },
+  "62": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "63": {
+    "02": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=FSP,OU=RO,OU=Users_Accounts,OU=TIER_2,OU=USERS,OU=ESTACIO CORPORATE",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "64": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=FAPAN,OU=MT,OU=Users_Accounts,OU=TIER_2,OU=USERS,OU=ESTACIO CORPORATE",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "65": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=FAP,OU=RO,OU=Users_Accounts,OU=TIER_2,OU=USERS,OU=ESTACIO CORPORATE",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "66": {
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=UNIMETA,OU=AC,OU=Users_Accounts,OU=TIER_2,OU=USERS,OU=ESTACIO CORPORATE",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "67": {
+    "03": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "04": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "02": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "01": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=UNIJIPA,OU=RO,OU=Users_Accounts,OU=TIER_2,OU=USERS,OU=ESTACIO CORPORATE",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  },
+  "01": {
+    "102": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "103": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Users,OU=Niteroi Bloco F,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "105": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Juiz de Fora,OU=MG,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "107": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "108": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Duque de Caxias II,OU=RJ,OU=Users_Accounts,OU=TIER_2,OU=USERS,OU=ESTACIO CORPORATE",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "109": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Barra World,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "110": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "113": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Resende,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "115": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "116": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "117": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "118": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "119": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "120": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "121": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "122": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "123": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "124": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "125": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "126": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "127": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "129": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "130": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "131": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "132": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "133": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "134": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "135": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "136": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "137": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "138": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "139": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "140": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Joao Uchoa,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "141": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Venda Nova,OU=MG,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "142": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Niteroi,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "143": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "144": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Juiz de Fora,OU=MG,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "145": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Sao Goncalo,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "146": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Santa Cruz,OU=RJ,OU=Estrutura Estacio Corp,DC=estacio,DC=corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "147": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Jaragua do Sul,OU=SC,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "148": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Alagoinhas,OU=BA,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "149": {
+      "marca": "yduqs.com.br",
+      "domain": "YDUQS.CORP",
+      "ou": "OU=Montreal,OU=Users_Accounts,OU=TIER_2,OU=USERS,OU=YDUQS CORPORATE",
+      "grupos_default": [
+        "BPAProcessViewers_Y",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_YDUQS",
+        "SNOW_YDUQS",
+        "Microsoft365_A3_fcty.YDUQScorp.lg",
+        "base.calendario_YDUQS"
+      ]
+    },
+    "150": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Citta America,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "151": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Duque de Caxias II,OU=RJ,OU=Users_Accounts,OU=TIER_2,OU=USERS,OU=ESTACIO CORPORATE",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "152": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=VISTA CARIOCA,OU=RJ,OU=Estrutura Estacio Corp,DC=estacio,DC=corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "001": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Maracana,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "002": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Akxe,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "003": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Nova Friburgo,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "004": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Niteroi,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "011": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=R9,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "012": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Tom Jobim,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "016": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Nova America,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "017": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "018": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Madureira,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "019": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Petropolis I,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "021": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Campus Centro III - Menezes Corte,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "022": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Campus Centro V - Arcos da Lapa,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "026": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "030": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Vargem Pequena,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "033": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Niteroi,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "034": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Campus Meier II,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "035": {
+      "marca": "yduqs.com.br",
+      "domain": "YDUQS.CORP",
+      "ou": "OU=Montreal,OU=Users_Accounts,OU=TIER_2,OU=USERS,OU=YDUQS CORPORATE",
+      "grupos_default": [
+        "BPAProcessViewers_Y",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_YDUQS",
+        "SNOW_YDUQS",
+        "Microsoft365_A3_fcty.YDUQScorp.lg",
+        "base.calendario_YDUQS"
+      ]
+    },
+    "036": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Campus Centro IV - Praca XI,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "037": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Barra World,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "038": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=West Shopping,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "039": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Queimados,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "040": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=R9,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "041": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Petropolis I,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "044": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Macae,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "045": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Alcantara,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "046": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Sao Joao de Meriti,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "047": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Duque de Caxias,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "048": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Nova Iguacu,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "052": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Campus Centro V - Arcos da Lapa,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "054": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Cabo Frio,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "061": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Campos dos Goytacazes,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "062": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Resende,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "064": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Ilha do Governador,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "066": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Campus Centro I - Presidente Vargas,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "067": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Dorival Caymmi,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "068": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Vitoria,OU=ES,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "069": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Vila Velha,OU=ES,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "070": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Estacio - Ourinhos,OU=SP,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "071": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Juiz de Fora,OU=MG,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "072": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Floresta,OU=MG,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "073": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Floresta,OU=MG,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "074": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Faculdade Estacio de Sa de Campo Grande,OU=MS,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "075": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Goiania,OU=GO,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "085": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Prado,OU=MG,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "087": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Norte Shopping,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "088": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Vila Velha,OU=ES,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "089": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Sulacap,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "090": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Angra,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "091": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Teresópolis,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "092": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "093": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Via Brasil,OU=RJ,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "094": {
+      "marca": "yduqs.com.br",
+      "domain": "YDUQS.CORP",
+      "ou": "OU=Venezuela,OU=Users_Accounts,OU=TIER_2,OU=USERS,OU=YDUQS CORPORATE",
+      "grupos_default": [
+        "BPAProcessViewers_Y",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_YDUQS",
+        "SNOW_YDUQS",
+        "Microsoft365_A3_fcty.YDUQScorp.lg",
+        "base.calendario_YDUQS"
+      ]
+    },
+    "095": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Goiania,OU=GO,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    },
+    "099": {
+      "marca": "estacio.br",
+      "domain": "ESTACIO.CORP",
+      "ou": "OU=Usuarios,OU=Juiz de Fora,OU=MG,OU=Estrutura Estacio Corp",
+      "grupos_default": [
+        "All_users_Active",
+        "BPAProcessViewers",
+        "FG_restrito",
+        "FuncionarioAdministrativo",
+        "Group-VPN-Client",
+        "Group-VPN-PA",
+        "MFA_USER_ESTACIO",
+        "SNOW_ESTACIO",
+        "WorkPlace-Users",
+        "Microsoft365_A3_fcty.ESTACIOcorp.lg",
+        "base.calendario_ESTACIO"
+      ]
+    }
+  }
+}
