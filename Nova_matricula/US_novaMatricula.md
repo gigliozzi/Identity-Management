@@ -16,10 +16,10 @@ Disparo: `não`
 
 > ADP
 
-| NOME                   |        CARGO        |   TIPO   | MATRÍCULA  |     ADMISSÃO      | DEMISSÃO |
-| ---------------------- | :-----------------: | :------: | :--------: | :---------------: | :------: |
-| JANE SILVA REIS        |      PROF AUX       |    P     |    055     |    01/08/2019     |          |
-| <brown>JANE SILVA REIS | <brown>COORDERNADOR | <brown>A | <brown>069 | <brown>26/02/2024 |
+| NOME            |    CARGO     | TIPO | MATRÍCULA |  ADMISSÃO  | DEMISSÃO |
+| --------------- | :----------: | :--: | :-------: | :--------: | :------: |
+| JANE SILVA REIS |   PROF AUX   |  P   |    055    | 01/08/2019 |          |
+| JANE SILVA REIS | COORDERNADOR |  A   |    069    | 26/02/2024 |
 
 > IDENTIDADE
 
@@ -50,10 +50,10 @@ Disparo: `sim`
 
 > ADP
 
-| NOME                   |        CARGO        |   TIPO   | MATRÍCULA  |     ADMISSÃO      | DEMISSÃO |
-| ---------------------- | :-----------------: | :------: | :--------: | :---------------: | :------: |
-| JANE SILVA REIS        |      PROF AUX       |    P     |    055     |    01/08/2019     |          |
-| <brown>JANE SILVA REIS | <brown>COORDERNADOR | <brown>A | <brown>069 | <brown>26/02/2024 |          |
+| NOME            |    CARGO     | TIPO | MATRÍCULA |  ADMISSÃO  | DEMISSÃO |
+| --------------- | :----------: | :--: | :-------: | :--------: | :------: |
+| JANE SILVA REIS |   PROF AUX   |  P   |    055    | 01/08/2019 |          |
+| JANE SILVA REIS | COORDERNADOR |  A   |    069    | 26/02/2024 |          |
 
 > IDENTIDADE (Header)
 
@@ -82,10 +82,10 @@ Disparo: `sim`
 
 > ADP
 
-| NOME                   |        CARGO        |   TIPO   |    MATR    |     ADMISSÃO      | DEMISSÃO |
-| ---------------------- | :-----------------: | :------: | :--------: | :---------------: | :------: |
-| JANE SILVA REIS        |      PROF AUX       |    P     |    055     |    01/08/2019     |          |
-| <brown>JANE SILVA REIS | <brown>COORDERNADOR | <brown>A | <brown>069 | <brown>26/02/2024 |          |
+| NOME            |    CARGO     | TIPO | MATR |  ADMISSÃO  | DEMISSÃO |
+| --------------- | :----------: | :--: | :--: | :--------: | :------: |
+| JANE SILVA REIS |   PROF AUX   |  P   | 055  | 01/08/2019 |          |
+| JANE SILVA REIS | COORDERNADOR |  A   | 069  | 26/02/2024 |          |
 
 > IDENTIDADE
 
@@ -111,10 +111,10 @@ Disparo: `sim`
 
 > ADP
 
-| NOME                   |        CARGO        |   TIPO   |    MATR    |     ADMISSÃO      | DEMISSÃO |
-| ---------------------- | :-----------------: | :------: | :--------: | :---------------: | :------: |
-| JANE SILVA REIS        |      PROF AUX       |    P     |    055     |    01/08/2019     |          |
-| <brown>JANE SILVA REIS | <brown>COORDERNADOR | <brown>A | <brown>069 | <brown>26/02/2024 |          |
+| NOME            |    CARGO     | TIPO | MATR |  ADMISSÃO  | DEMISSÃO |
+| --------------- | :----------: | :--: | :--: | :--------: | :------: |
+| JANE SILVA REIS |   PROF AUX   |  P   | 055  | 01/08/2019 |          |
+| JANE SILVA REIS | COORDERNADOR |  A   | 069  | 26/02/2024 |          |
 
 > IDENTIDADE
 
@@ -140,10 +140,10 @@ Disparo: `não`
 
 ADP
 
-| NOME                   |        CARGO        |   TIPO   |    MATR    |     ADMISSÃO      | DEMISSÃO |
-| ---------------------- | :-----------------: | :------: | :--------: | :---------------: | :------: |
-| JANE SILVA REIS        |      PROF AUX       |    P     |    055     |    01/08/2019     |          |
-| <brown>JANE SILVA REIS | <brown>COORDERNADOR | <brown>A | <brown>069 | <brown>26/02/2024 |          |
+| NOME            |    CARGO     | TIPO | MATR |  ADMISSÃO  | DEMISSÃO |
+| --------------- | :----------: | :--: | :--: | :--------: | :------: |
+| JANE SILVA REIS |   PROF AUX   |  P   | 055  | 01/08/2019 |          |
+| JANE SILVA REIS | COORDERNADOR |  A   | 069  | 26/02/2024 |          |
 
 > IDENTIDADE
 
@@ -168,10 +168,10 @@ Disparo: `sim`
 
 ADP
 
-| NOME                   |        CARGO        |   TIPO   |    MATR    |     ADMISSÃO      | DEMISSÃO |
-| ---------------------- | :-----------------: | :------: | :--------: | :---------------: | :------: |
-| JANE SILVA REIS        |      PROF AUX       |    P     |    055     |    01/08/2019     |          |
-| <brown>JANE SILVA REIS | <brown>COORDERNADOR | <brown>A | <brown>069 | <brown>26/02/2024 |          |
+| NOME            |    CARGO     | TIPO | MATR |  ADMISSÃO  | DEMISSÃO |
+| --------------- | :----------: | :--: | :--: | :--------: | :------: |
+| JANE SILVA REIS |   PROF AUX   |  P   | 055  | 01/08/2019 |          |
+| JANE SILVA REIS | COORDERNADOR |  A   | 069  | 26/02/2024 |          |
 
 > IDENTIDADE
 
@@ -185,10 +185,3 @@ ADP
 | ----------------------- | :-----: | :----: | :-------: | :---: | ------------------- |
 | jane.reis@estacio.br    |  YDUQS  | :lock: |    055    | PROF  | conta pré-existente |
 | jane.sreis@yduqs.com.br | ESTACIO | :lock: |    069    | COORD |
-
-<style>
-    red { color: red }
-    yellow { color: yellow }
-    green { color: green; font-weight: 700 }
-    brown { color: brown; font-weight: 700 }
-</style>
