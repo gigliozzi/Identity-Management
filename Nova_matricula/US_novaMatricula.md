@@ -6,24 +6,28 @@
 
 > Eu, Autoseg, leio a tbl_estacio_pessoal, seleciono as entradas tipo “A” e ignoro tipo “P”.
 
-## CENÁRIO 1: Identidade Ativa / Credencial de rede ativa com mesma matrícula
+## CENÁRIO 1: Identidade Ativa / Credencial de rede ativa
 
-> Eu, Autoseg, verifico a existência de uma identidade ativa com aquele CPF/MATRICULA; em caso positivo, verifico também se há uma credencial de rede habilitada com aquele CPF/MATRÍCULA, em caso positivo, não crio requisição de criação de nova matrícula e carrego no arquivo de erros a mensagem: `"já existe uma credencial de rede habilitada com a matrícula “069” no domínio “ESTACIO.CORP: jane.sreis@yduqs.com.br"`, conforme demonstração abaixo.
+Eu, Autoseg, verifico a existência de uma identidade ativa com aquele CPF/MATRICULA e a existência de credencial de rede habilitada com aquele CPF/MATRÍCULA, em caso positivo, não crio requisição de nova matrícula e carrego no arquivo de erros a mensagem: `"Já existe uma credencial de rede habilitada com a matrícula “069” no domínio “ESTACIO.CORP: jane.sreis@yduqs.com.br"`, conforme demonstração abaixo.
 
-    ADP
+Identidade: `atualizar Gestor, Cargo, CPF, Departamento, Centro de Custo`
+Credencial: `atualizar Gestor, Cargo, CPF, Departamento, Centro de Custo`
+Disparo: `não`
 
-| NOME                   |    CARGO     |    MATR    |     ADMISSÃO      | DEMISSÃO |
-| ---------------------- | :----------: | :--------: | :---------------: | :------: |
-| JANE SILVA REIS        |     PROF     |    055     |    01/08/2019     |          |
-| <brown>JANE SILVA REIS | <brown>COORD | <brown>069 | <brown>22/02/2024 |  :bulb:  |
+> ADP
 
-    IDENTIDADE (Header)
+| NOME                   |        CARGO        |   TIPO   | MATRÍCULA  |     ADMISSÃO      | DEMISSÃO |
+| ---------------------- | :-----------------: | :------: | :--------: | :---------------: | :------: |
+| JANE SILVA REIS        |      PROF AUX       |    P     |    055     |    01/08/2019     |          |
+| <brown>JANE SILVA REIS | <brown>COORDERNADOR | <brown>A | <brown>069 | <brown>26/02/2024 |
 
-| NOME            | CARGO | MATRÍCULA | STATUS |
-| --------------- | :---: | :-------: | :----: |
-| JANE SILVA REIS | PROF  |    055    | ATIVO  |
+> IDENTIDADE
 
-    REDE
+| NOME            | CARGO | MATRÍCULA |       STATUS       |
+| --------------- | :---: | :-------: | :----------------: |
+| JANE SILVA REIS | PROF  |    055    | :white_check_mark: |
+
+> REDE
 
 | LOGIN                   | DOMINIO |       STATUS       | MATRÍCULA | CARGO |
 | ----------------------- | :-----: | :----------------: | :-------: | :---: |
@@ -36,28 +40,28 @@
 <br/>
 <br/>
 
-## CENÁRIO 2: Identidade Ativa / Credencial de rede inativa com mesma matrícula
+## CENÁRIO 2: Identidade Ativa / Credencial de rede inativa
 
-Eu, Autoseg, verifico a existência de uma identidade com aquele CPF/MATRICULA e verifico se existe conta de rede inativa com a mesma matrícula vinda do ADP; em caso positivo
+Eu, Autoseg, verifico a existência de uma identidade ativa com aquele CPF/MATRICULA; em caso positivo, verifico também se há uma credencial de rede desabilitada com aquele CPF/MATRÍCULA, em caso positivo, ativo a referida conta de rede e disparo (conta/senha) para o e-mail pessoal do colaborador proveniente do ADP e atualizo o `Cargo, Gestor, CPF, Departamento, Centro de Custo` e carrego mensagem no relatório diário de admissão': `"A conta jane.sreis@yduqs.com.br, matrícula "069", foi reativada no domínio ESTACIO.CORP.`
 
-Ativar a conta de rede e atualizar o cargo de acordo o ADP
+Identidade: `atualizar Gestor, Cargo, CPF, Departamento, Centro de Custo`
+Credencial: `ativar e atualizar Gestor, Cargo, CPF, Departamento, Centro de Custo`
+Disparo: `sim`
 
-Eu, Autoseg, caso a credencial de rede que possui a matrícula entrante NÃO esteja ativa no AD, atualizo a conta AD com os dados mais recentes obtidos do ADP e reativo a respectiva credencial de rede, disparando a credencial (conta/senha) para o e-mail pessoal do colaborador proveniente do ADP seguido do e-mail para o gestor do colaborador, conforme coluna `‘nome_chefia’` constante no ADP. Eu, Autoseg, atualizo a identidade com os dados provenientes do ADP e atualizo o header da identidade com a matrícula administrativa ‘A’ recém-chegada.
+> ADP
 
-    ADP
+| NOME                   |        CARGO        |   TIPO   | MATRÍCULA  |     ADMISSÃO      | DEMISSÃO |
+| ---------------------- | :-----------------: | :------: | :--------: | :---------------: | :------: |
+| JANE SILVA REIS        |      PROF AUX       |    P     |    055     |    01/08/2019     |          |
+| <brown>JANE SILVA REIS | <brown>COORDERNADOR | <brown>A | <brown>069 | <brown>26/02/2024 |          |
 
-| NOME                   |    CARGO     |    MATR    |     ADMISSÃO      | DEMISSÃO |
-| ---------------------- | :----------: | :--------: | :---------------: | :------: |
-| JANE SILVA REIS        |     PROF     |    055     |    01/08/2019     |          |
-| <brown>JANE SILVA REIS | <brown>COORD | <brown>069 | <brown>22/02/2024 |          |
+> IDENTIDADE (Header)
 
-    IDENTIDADE (Header)
+| NOME            | CARGO | MATRÍCULA |       STATUS       |
+| --------------- | :---: | :-------: | :----------------: |
+| JANE SILVA REIS | PROF  |    055    | :white_check_mark: |
 
-| NOME            | CARGO | MATRÍCULA | STATUS |
-| --------------- | :---: | :-------: | :----: |
-| JANE SILVA REIS | PROF  |    055    | ATIVO  |
-
-    REDE
+> REDE
 
 | LOGIN                   | DOMINIO |       STATUS       | MATRÍCULA | CARGO |
 | ----------------------- | :-----: | :----------------: | :-------: | :---: |
@@ -66,21 +70,125 @@ Eu, Autoseg, caso a credencial de rede que possui a matrícula entrante NÃO est
 
 <br/>
 
-## CENÁRIO 3: Identidade Ativa / Credencial de Rede inexistente
+## CENÁRIO 3: Identidade Ativa / Credencial de rede inexistente
 
-Eu, Autoseg, caso a nova matrícula não possua correspondente na identidade, crio requisição criação de nova credencial com disparo da credencial (conta/senha) para o e-mail pessoal do colaborador proveniente do ADP seguido do e-mail para o gestor do colaborador, conforme coluna ‘nome_chefia’ constante no ADP. Eu, Autoseg, ativo e atualizo a identidade com os dados provenientes do ADP, colocando a nova matrícula no header da identidade e incluindo a nova matrícula na ‘Matrícula de todos os domínios’.
+Eu, Autoseg, verifico a existência de uma identidade ativa com aquele CPF/matrícula e inexistência de credencial de rede com os mesmos CPF/matrícula, em caso positvo, crio requisição criação de nova credencial com disparo (conta/senha) para o e-mail pessoal do colaborador proveniente do ADP, seguido do e-mail para o gestor do colaborador, conforme coluna `nome_chefia` da tabela de pessoal. Adicionalmente, atualizo a identidade com os dados mais recentes do ADP, colocando a nova matrícula no header da identidade e incluindo a nova matrícula na `‘Matrícula de todos os domínios’`.
 
-## CENÁRIO 4: IDENTIDADE INATIVA / CREDENCIAL DE REDE INEXISTENTE
+Identidade: `atualizar Gestor, Cargo, CPF, Departamento, Centro de Custo`
+Credencial: `criar nova`
+Disparo: `sim`
 
-Eu, Autoseg, caso a nova matrícula não possua correspondente na identidade, crio requisição criação de nova credencial com disparo da credencial (conta/senha) para o e-mail pessoal do colaborador proveniente do ADP seguido do e-mail para o gestor do colaborador, conforme coluna ‘nome_chefia’ constante no ADP. Eu, Autoseg, ativo e atualizo a identidade com os dados provenientes do ADP, colocando a nova matrícula no header da identidade, incluindo a nova matrícula na ‘Matrícula de todos os domínios’ e alterando o status da matrícula para ‘ativo’.
+:bulb: **A inclusão deve permitir o bloqueio via fluxo automático de desligamento.**
 
-## CENÁRIO 5: IDENTIDADE INATIVA / CREDENCIAL DE REDE EXISTENTE
+> ADP
 
-Eu, Autoseg, caso a nova matrícula possua correspondente na identidade, porém inativa, crio requisição criação de atualização de credencial com disparo (conta/senha) para o e-mail pessoal do colaborador proveniente do ADP seguido do e-mail para o gestor do colaborador, conforme coluna ‘nome_chefia’ constante no ADP. Eu, Autoseg, ativo e atualizo a identidade com os dados provenientes do ADP, colocando a nova matrícula no header da identidade e alterando o status da matrícula na ‘Matrícula de todos os domínios’ para ‘ativo’.
+| NOME                   |        CARGO        |   TIPO   |    MATR    |     ADMISSÃO      | DEMISSÃO |
+| ---------------------- | :-----------------: | :------: | :--------: | :---------------: | :------: |
+| JANE SILVA REIS        |      PROF AUX       |    P     |    055     |    01/08/2019     |          |
+| <brown>JANE SILVA REIS | <brown>COORDERNADOR | <brown>A | <brown>069 | <brown>26/02/2024 |          |
+
+> IDENTIDADE
+
+| NOME            | CARGO | MATRÍCULA |       STATUS       |
+| --------------- | :---: | :-------: | :----------------: |
+| JANE SILVA REIS | PROF  |    055    | :white_check_mark: |
+
+> REDE
+
+| LOGIN                | DOMINIO |       STATUS       | MATRÍCULA | CARGO | Obs                 |
+| -------------------- | :-----: | :----------------: | :-------: | :---- | ------------------- |
+| jane.reis@estacio.br |  YDUQS  | :white_check_mark: |    055    | PROF  | conta pré-existente |
+
+<br/>
+
+## CENÁRIO 4: Identidade inativa / Credencial de rede inexistente
+
+Eu, Autoseg, verifico a existência de uma identidade inativa com aquele CPF/matrícula e inexistência de credencial de rede¹ com os mesmos CPF/matrícula, em caso positvo, crio requisição de nova matrícula com disparo (conta/senha) para o e-mail pessoal do colaborador proveniente do ADP, [seguido do e-mail para o gestor do colaborador]. Adicionalmente, ativo a identidade e atualizo-a com os dados mais recentes do ADP, colocando a nova matrícula no header da identidade e incluindo a nova matrícula na `‘Matrícula de todos os domínios’`. Por fim, eu, Autoseg, carrego no 'Relatório Diário de Admissão' a mensagem: `A conta jane.sreis@yduqs.com.br, matrícula "069", foi criada no domínio ESTACIO.CORP.`
+
+Identidade: `ativar e atualizar Gestor, Cargo, CPF, Departamento, Centro de Custo`
+Credencial: `criar nova`
+Disparo: `sim`
+
+> ADP
+
+| NOME                   |        CARGO        |   TIPO   |    MATR    |     ADMISSÃO      | DEMISSÃO |
+| ---------------------- | :-----------------: | :------: | :--------: | :---------------: | :------: |
+| JANE SILVA REIS        |      PROF AUX       |    P     |    055     |    01/08/2019     |          |
+| <brown>JANE SILVA REIS | <brown>COORDERNADOR | <brown>A | <brown>069 | <brown>26/02/2024 |          |
+
+> IDENTIDADE
+
+| NOME            | CARGO | MATRÍCULA | STATUS |
+| --------------- | :---: | :-------: | :----: |
+| JANE SILVA REIS | PROF  |    055    | :lock: |
+
+> REDE
+
+| LOGIN                | DOMINIO | STATUS | MATRÍCULA | CARGO | Obs                 |
+| -------------------- | :-----: | :----: | :-------: | :---: | ------------------- |
+| jane.reis@estacio.br |  YDUQS  | :lock: |    055    | PROF  | conta pré-existente |
+
+<br/>
+
+## CENÁRIO 5: Identidade inativa / Credencial de rede ativa
+
+Eu, Autoseg, verifico a existência de uma identidade inativa com aquele CPF/matrícula e a existência de credencial de rede ativa com os mesmos CPF/matrícula, em caso positvo, não crio crio requisição de nova matrícula. Adicionalmente, ativo a identidade e atualizo-a com os dados mais recentes do ADP (CPF, Cargo, Gestor, Dept. e Centro de Custo) colocando a nova matrícula no header da identidade e incluindo a nova matrícula na `‘Matrícula de todos os domínios’`. Por fim, eu, Autoseg, carrego no 'relatório diário de admissão' a mensagem: `a conta jane.sreis@yduqs.com.br, matrícula "069", foi atualizada no domínio ESTACIO.CORP.`
+
+Identidade: `ativar e atualizar Gestor, Cargo, CPF, Departamento, Centro de Custo`
+Credencial: `atualizar Gestor, Cargo, CPF, Departamento, Centro de Custo`
+Disparo: `não`
+
+ADP
+
+| NOME                   |        CARGO        |   TIPO   |    MATR    |     ADMISSÃO      | DEMISSÃO |
+| ---------------------- | :-----------------: | :------: | :--------: | :---------------: | :------: |
+| JANE SILVA REIS        |      PROF AUX       |    P     |    055     |    01/08/2019     |          |
+| <brown>JANE SILVA REIS | <brown>COORDERNADOR | <brown>A | <brown>069 | <brown>26/02/2024 |          |
+
+> IDENTIDADE
+
+| NOME            | CARGO | MATRÍCULA | STATUS |
+| --------------- | :---: | :-------: | :----: |
+| JANE SILVA REIS | PROF  |    055    | :lock: |
+
+> REDE
+
+| LOGIN                   | DOMINIO |       STATUS       | MATRÍCULA | CARGO | Obs                 |
+| ----------------------- | :-----: | :----------------: | :-------: | :---: | ------------------- |
+| jane.reis@estacio.br    |  YDUQS  |       :lock:       |    055    | PROF  | conta pré-existente |
+| jane.sreis@yduqs.com.br | ESTACIO | :white_check_mark: |    069    | COORD |
+
+## CENÁRIO 6: Identidade inativa / Credencial de rede inativa
+
+Eu, Autoseg, verifico a existência de uma identidade inativa com aquele CPF/matrícula e a existência de credencial de rede inativa com os mesmos CPF/matrícula, em caso positvo, crio requisição de nova matrícula e disparo e-mail com a credencial reativada (conta/senha) para o endereço cadastrado no campo e-mail da tabela de pessoal. Adicionalmente, ativo a identidade e atualizo-a com os dados mais recentes do ADP (CPF, Cargo, Gestor, Dept. e Centro de Custo) colocando a nova matrícula no header da identidade e incluindo-a na `‘Matrícula de todos os domínios’`. Por fim, eu, Autoseg, carrego no 'relatório diário de admissão' a mensagem: `a conta jane.sreis@yduqs.com.br, matrícula "069", foi reativada no domínio ESTACIO.CORP.`
+
+Identidade: `ativar e atualizar Gestor, Cargo, CPF, Departamento, Centro de Custo`
+Credencial: `ativar e atualizar Gestor, Cargo, CPF, Departamento, Centro de Custo`
+Disparo: `sim`
+
+ADP
+
+| NOME                   |        CARGO        |   TIPO   |    MATR    |     ADMISSÃO      | DEMISSÃO |
+| ---------------------- | :-----------------: | :------: | :--------: | :---------------: | :------: |
+| JANE SILVA REIS        |      PROF AUX       |    P     |    055     |    01/08/2019     |          |
+| <brown>JANE SILVA REIS | <brown>COORDERNADOR | <brown>A | <brown>069 | <brown>26/02/2024 |          |
+
+> IDENTIDADE
+
+| NOME            | CARGO | MATRÍCULA | STATUS |
+| --------------- | :---: | :-------: | :----: |
+| JANE SILVA REIS | PROF  |    055    | :lock: |
+
+> REDE
+
+| LOGIN                   | DOMINIO | STATUS | MATRÍCULA | CARGO | Obs                 |
+| ----------------------- | :-----: | :----: | :-------: | :---: | ------------------- |
+| jane.reis@estacio.br    |  YDUQS  | :lock: |    055    | PROF  | conta pré-existente |
+| jane.sreis@yduqs.com.br | ESTACIO | :lock: |    069    | COORD |
 
 <style>
-red { color: red }
-yellow { color: yellow }
-green { color: green; font-weight: 700 }
-brown { color: brown; font-weight: 700 }
+    red { color: red }
+    yellow { color: yellow }
+    green { color: green; font-weight: 700 }
+    brown { color: brown; font-weight: 700 }
 </style>
