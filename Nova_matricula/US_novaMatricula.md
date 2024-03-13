@@ -1,4 +1,4 @@
-# <span style="color: green"> ADMISSÃO DE NOVA MATRÍCULA </span>
+ # ADMISSÃO DE NOVA MATRÍCULA
 
 > **Nome da requisição**: ‘Requisição de Nova Matrícula’
 
