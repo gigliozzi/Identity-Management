@@ -1,0 +1,43 @@
+[
+  {
+    "dominio": "Estacio",
+    "sistema_sid": "EST",
+    "perfis": [
+      "All_users_Active",
+      "BPAProcessViewers",
+      "FG_Restrito",
+      "Group-VPN-Client",
+      "Group-VPN-PA",
+      "MFA_USER_ESTACIO",
+      "Microsoft365_A1_fcty.ESTACIOcorp.lg",
+      "SNOW_ESTACIO",
+      "Workplace-Users"
+    ]
+  },
+  {
+    "dominio": "Yduqs",
+    "sistema_sid": "YDQ",
+    "perfis": [
+      "All_Users",
+      "BPAProcessViewers_Y",
+      "FG_Restrito",
+      "Group-VPN-Client",
+      "Group-VPN-PA",
+      "MFA_USER_YDUQS",
+      "Microsoft365_A1_fcty.YDUQScorp.lg",
+      "SNOW_YDUQS"
+    ]
+  },
+  {
+    "dominio": "Educ",
+    "sistema_sid": "EDC",
+    "perfis": [
+      "Group-VPN-Client",
+      "Group-VPN-PA",
+      "MFA_USER_EDUC",
+      "Microsoft365_A1_fcty.EDUCcorp.lg",
+      "SNOW_EDUC",
+      "Todos"
+    ]
+  }
+]

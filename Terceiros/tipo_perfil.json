@@ -1,0 +1,38 @@
+[
+  {
+    "dominio": "YDUQS",
+    "sid": "YDQ",
+    "perfil": {
+      "CALL CENTER": [],
+      "CORPORATIVO": [],
+      "POLO": [],
+      "UNIDADE": []
+    }
+  },
+  {
+    "dominio": "EDUC",
+    "sid": "EDC",
+    "perfil": {
+      "CALL CENTER": [],
+      "CORPORATIVO": [],
+      "POLO": [],
+      "UNIDADE": []
+    }
+  },
+  {
+    "dominio": "ESTACIO",
+    "sid": "EST",
+    "perfil": {
+      "CALL CENTER": ["digitaliza_aluno_secretaria"],
+      "CORPORATIVO": [],
+      "POLO": [
+        "digitaliza_analista_digitalizador_polos",
+        "digitaliza_captacao_financiamentos_polosparceiros"
+      ],
+      "UNIDADE": [
+        "digitaliza_aluno_secretaria",
+        "digitaliza_captacao_financiamentos_unidades"
+      ]
+    }
+  }
+]
