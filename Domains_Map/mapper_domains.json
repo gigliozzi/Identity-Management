@@ -2877,7 +2877,7 @@
     "21": {
       "marca": "ibmec.edu.br",
       "domain": "EDUC.CORP",
-      "ou": "OU=IPA,OU=IBMEC_SP_FariaLima_IFL,OU=CORPORATE,OU=USERS,DC=EDUC CORPORATE,DC=EDUC,DC=CORP",
+      "ou": "OU=IPA,OU=IBMEC_SP_FariaLima_IFL,OU=CORPORATE,OU=USERS,DC=EDUC CORPORATE",
       "grupos_default": [
         "Group-VPN-Client",
         "Group-VPN-PA",
