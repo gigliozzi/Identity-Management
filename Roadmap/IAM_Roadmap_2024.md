@@ -4,15 +4,16 @@
 
 ## Índice
 
-[KPIs](#intro)
-[Metas](#admissao)
-[Admissão](#admissao)
-[Revogação](#revogacao)
-[Terceiros](#terceiros)
-[Contas Privilegiadas](#privileges)
+[KPIs](#kpis)<br>
+[Metas](#goals) <br>
+[Admissão](#admissao) <br>
+[Revogação](#revogacao) <br>
+[Terceiros](#terceiros) <br>
+[Cofre](#vault) <br>
+[Contas Privilegiadas](#privileges) <br>
 [Sistema de Informações Acadêmicas](#sia)
 
-<a id="intro">
+<a id="kpis">
 
 ### KPIs
 
@@ -38,6 +39,14 @@ Com os ajustes realizados, conseguimos aumentar, cerca de 11 pontos percentuais 
 | ------------------------ | ------------ | ------------ |
 | <center>William</center> | Tainara      | PC           |
 
+<a id="goals">
+
+### Metas
+
+A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95% para os fluxos de admissão e revogação.
+
+<a id="admissao">
+
 ### Admissão
 
 - Primarização do terceiro :arrows_counterclockwise:
@@ -45,6 +54,8 @@ Com os ajustes realizados, conseguimos aumentar, cerca de 11 pontos percentuais 
 - Geração de novas matrículas :arrows_counterclockwise:
 - Reformulação dos logs :arrows_counterclockwise:
 - Criação de funcionários em massa :new:
+
+<a id="revogacao">
 
 ### Revogação
 
@@ -56,15 +67,13 @@ Com os ajustes realizados, conseguimos aumentar, cerca de 11 pontos percentuais 
 
 ### Terceiros
 
-- Tela de criação individual :ballot_box_with_check:
-- Tela criação em massa :ballot_box_with_check:
-- Criação da conta no AD :ballot_box_with_check:
+- :heavy_check_mark: Tela de criação individual
+- :ballot_box_with_check: Tela criação em massa
+- :ballot_box_with_check: Criação da conta no AD
 - Disparo da credencial por e-mail :ballot_box_with_check:
-
 - Notificação de expiração por fim de atividade #21761 :grey_exclamation:
 - Tela de renovação de atividade e contrato:grey_exclamation:
 - Link para renovação individual de ativdadade e contrato:grey_exclamation:
-
 - Possibilidade de incluir e-mail adicional para recebimento de cópia da credencial:grey_exclamation:
 - Possibilidade de reativar uma conta desligada e reativar a identidade:grey_exclamation:
 - Tela de consulta similar à do SISGDI:grey_exclamation:
@@ -81,6 +90,8 @@ Com os ajustes realizados, conseguimos aumentar, cerca de 11 pontos percentuais 
   `Área que o recurso irá atuar *`
   `Número contrato SAP (se houver)`
   `Centro de Custo do Contrato *`
+
+<a id="vault">
 
 ### Cofre de Senhas
 
