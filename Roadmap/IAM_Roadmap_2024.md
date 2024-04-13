@@ -4,15 +4,18 @@
 
 ## Índice
 
-[KPIs](#kpis)<br>
-[Metas](#goals) <br>
-[Admissão](#admissao) <br>
-[Revogação](#revogacao) <br>
-[Terceiros](#terceiros) <br>
-[Cofre](#vault) <br>
-[Contas Privilegiadas](#privileges) <br>
-[Sistema de Informações Acadêmicas](#sia) <br>
-[teste](#teste)
+<!-- toc -->
+
+[KPIs](#kpis)
+[Metas](#metas)
+[Admissão](#admissao)
+[Revogação](#revogacao)
+[Terceiros](#terceiros)
+[Cofre de Senhas](#vault)
+[Contas Privilegiadas](#privileged)
+[Sistema de Informações Acadêmicas (SIA)](#sia)
+
+<!-- tocstop -->
 
 <a id="kpis">
 
@@ -40,7 +43,7 @@ Com os ajustes realizados, conseguimos aumentar, cerca de 11 pontos percentuais 
 | ------------------------ | ------------ | ------------ |
 | <center>William</center> | Tainara      | PC           |
 
-<a id="goals">
+<a id="metas">
 
 ### Metas
 
@@ -98,7 +101,7 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 - Connexão do IAM via cofre
 
-<a id="privileges">
+<a id="privileged">
 
 ### Contas Privilegiadas
 
