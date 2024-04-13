@@ -13,7 +13,7 @@
 [Terceiros](#terceiros)
 [Cofre de Senhas](#vault)
 [Contas Privilegiadas](#privileged)
-[Sistema de Informações Acadêmicas (SIA)](#sia)
+[Sistema de Informações Acadêmicas (SIA)](#sistema-de-informacoes-academicas-sia)
 
 <!-- tocstop -->
 
@@ -72,8 +72,8 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 ### Terceiros
 
 - :heavy_check_mark: Tela de criação individual
-- :ballot_box_with_check: Tela criação em massa
-- :ballot_box_with_check: Criação da conta no AD
+- :heavy_check_mark: Tela criação em massa
+- :heavy_check_mark: Criação da conta no AD
 - Disparo da credencial por e-mail :ballot_box_with_check:
 - Notificação de expiração por fim de atividade #21761 :grey_exclamation:
 - Tela de renovação de atividade e contrato:grey_exclamation:
