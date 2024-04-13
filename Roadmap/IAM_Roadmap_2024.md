@@ -74,7 +74,7 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 - :heavy_check_mark: Tela de criação individual
 - :heavy_check_mark: Tela criação em massa
 - :heavy_check_mark: Criação da conta no AD
-- Disparo da credencial por e-mail :ballot_box_with_check:
+- [x] Disparo da credencial por e-mail :ballot_box_with_check:
 - Notificação de expiração por fim de atividade #21761 :grey_exclamation:
 - Tela de renovação de atividade e contrato:grey_exclamation:
 - Link para renovação individual de ativdadade e contrato:grey_exclamation:
