@@ -2,6 +2,13 @@
 
 # IAM Roadmap 2024 ![image](/Roadmap/assets/fingerprint-svgrepo-com_sm.svg)
 
+<style>
+  a {
+    text-decoration: none;
+  }
+
+  </style>
+
 ## Índice
 
 [KPIs](#kpis)<br>
