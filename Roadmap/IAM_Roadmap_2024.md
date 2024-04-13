@@ -1,6 +1,6 @@
-<img src="/assets/YDUQS_Logo.svg" style="width: 200px">
+<img src="/Roadmap/assets/YDUQS_Logo.svg" style="width: 200px">
 
-# IAM Roadmap 2024 ![image](/assets/fingerprint-svgrepo-com_sm.svg)
+# IAM Roadmap 2024 ![image](/Roadmap/assets/fingerprint-svgrepo-com_sm.svg)
 
 ## Índice
 
