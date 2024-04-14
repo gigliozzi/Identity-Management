@@ -71,23 +71,23 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Terceiros
 
-:heavy_check_mark: Tela de criação individual
-:heavy_check_mark: Tela criação em massa
-:heavy_check_mark: Criação da conta no AD
-:heavy_check_mark: Disparo da credencial por e-mail :ballot_box_with_check:
-:exclamation: Notificação de expiração por fim de atividade #21761
-:exclamation: Tela de renovação de atividade e contrato
-:exclamation: Link para renovação individual de ativdadade e contrato
-:new: Inclusão de e-mail adicional para recebimento de cópia da credencial
-:new: Reativação de conta desligada e reativação da identidade
-:new: Tela de consulta similar à do SISGDI
-:new: Migração do banco de dados do SISGDI (Alarmes do BI)
-:new: Trilha no Service Now
-:new: Validação de CPF
-:new: Customização da mensagem de erro na importação
-:new: Tela com visibilidade (30/60/90) dos terceiros que estão prestes a vencer
-:new: Tela para renovação múltipla
-:new: Inclusão de campos no cadastro do terceiro: `Modelo de contratação, Area contratante, Area de Atuação, Contrato SAP, Ccusto Contrato`
+- :heavy_check_mark: Tela de criação individual
+- :heavy_check_mark: Tela criação em massa
+- :heavy_check_mark: Criação da conta no AD
+- :heavy_check_mark: Disparo da credencial por e-mail
+- :exclamation: Notificação de expiração por fim de atividade #21761
+- :exclamation: Tela de renovação de atividade e contrato
+- :exclamation: Link para renovação individual de ativdadade e contrato
+- :new: Inclusão de e-mail adicional para recebimento de cópia da credencial
+- :new: Reativação de conta desligada e reativação da identidade
+- :new: Tela de consulta similar à do SISGDI
+- :new: Migração do banco de dados do SISGDI (Alarmes do BI)
+- :new: Trilha no Service Now
+- :new: Validação de CPF
+- :new: Customização da mensagem de erro na importação
+- :new: Tela com visibilidade (30/60/90) dos terceiros que estão prestes a vencer
+- :new: Tela para renovação múltipla
+- :new: Inclusão de campos no cadastro do terceiro: `Modelo de contratação, Area contratante, Area de Atuação, Contrato SAP, Ccusto Contrato`
 
 <a id="vault">
 
