@@ -4,8 +4,6 @@
 
 ## Índice
 
-<!-- toc -->
-
 [KPIs](#kpis)
 [Metas](#metas)
 [Admissão](#admissao)
@@ -13,9 +11,7 @@
 [Terceiros](#terceiros)
 [Cofre de Senhas](#vault)
 [Contas Privilegiadas](#privileged)
-[Sistema de Informações Acadêmicas (SIA)](#sistema-de-informacoes-academicas-sia)
-
-<!-- tocstop -->
+[Sistema de Informações Acadêmicas (SIA)](#sia)
 
 <a id="kpis">
 
