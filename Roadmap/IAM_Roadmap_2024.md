@@ -4,14 +4,14 @@
 
 ## Índice
 
-[KPIs](#kpis)
-[Metas](#metas)
-[Admissão](#admissao)
-[Revogação](#revogacao)
-[Terceiros](#terceiros)
-[Cofre de Senhas](#vault)
-[Contas Privilegiadas](#privileged)
-[Sistema de Informações Acadêmicas (SIA)](#sia)
+- [KPIs](#kpis)
+- [Metas](#metas)
+- [Admissão](#admissao)
+- [Revogação](#revogacao)
+- [Terceiros](#terceiros)
+- [Cofre de Senhas](#vault)
+- [Contas Privilegiadas](#privileged)
+- [Sistema de Informações Acadêmicas (SIA)](#sia)
 
 <a id="kpis">
 
