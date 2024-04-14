@@ -71,29 +71,23 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Terceiros
 
-- :heavy_check_mark: Tela de criação individual
-- :heavy_check_mark: Tela criação em massa
-- :heavy_check_mark: Criação da conta no AD
-- [x] Disparo da credencial por e-mail :ballot_box_with_check:
-- Notificação de expiração por fim de atividade #21761 :grey_exclamation:
-- Tela de renovação de atividade e contrato:grey_exclamation:
-- Link para renovação individual de ativdadade e contrato:grey_exclamation:
-- Possibilidade de incluir e-mail adicional para recebimento de cópia da credencial:grey_exclamation:
-- Possibilidade de reativar uma conta desligada e reativar a identidade:grey_exclamation:
-- Tela de consulta similar à do SISGDI:grey_exclamation:
-- Migração do banco de dados do SISGDI (Alarmes do BI)
-- Definir equipe de sustentação (Gestão de Identidade)
-- Definir trilha no Service Now para questões envolvendo a criação em lote (GA funcionará como equipe de sustentação) – N1: Gestão de Acesso, N2: Eloísio/Tainara, N3: William
-- Validação de CPF :new:
-- Customização da mensagem de retorno e possibilidade de correção na mesma tela/instância :new:
-- Tela com visibilidade (30/60/90) dos terceiros que estão prestes a vencer :new:
-- Tela para renovação múltipla :new:
-- Inclusão de campos :new:
-  `Modelo de contratação: CAPEX/OPEX *`
-  `Área contratante *`
-  `Área que o recurso irá atuar *`
-  `Número contrato SAP (se houver)`
-  `Centro de Custo do Contrato *`
+:heavy_check_mark: Tela de criação individual
+:heavy_check_mark: Tela criação em massa
+:heavy_check_mark: Criação da conta no AD
+:heavy_check_mark: Disparo da credencial por e-mail :ballot_box_with_check:
+:exclamation: Notificação de expiração por fim de atividade #21761
+:exclamation: Tela de renovação de atividade e contrato
+:exclamation: Link para renovação individual de ativdadade e contrato
+:new: Inclusão de e-mail adicional para recebimento de cópia da credencial
+:new: Reativação de conta desligada e reativação da identidade
+:new: Tela de consulta similar à do SISGDI
+:new: Migração do banco de dados do SISGDI (Alarmes do BI)
+:new: Trilha no Service Now
+:new: Validação de CPF
+:new: Customização da mensagem de erro na importação
+:new: Tela com visibilidade (30/60/90) dos terceiros que estão prestes a vencer
+:new: Tela para renovação múltipla
+:new: Inclusão de campos no cadastro do terceiro: `Modelo de contratação, Area contratante, Area de Atuação, Contrato SAP, Ccusto Contrato`
 
 <a id="vault">
 
