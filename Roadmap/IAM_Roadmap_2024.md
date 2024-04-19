@@ -78,9 +78,9 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 - :heavy_check_mark: Tela criação em massa
 - :heavy_check_mark: Criação da conta no AD
 - :heavy_check_mark: Disparo da credencial por e-mail
-- :exclamation: Notificação de expiração por fim de atividade #21761
+- :heavy_check_mark: Link para revalidação do acesso (o que acontece com o contrato?)
+- :heavy_check_mark: Notificação de expiração por fim de atividade #21761
 - :exclamation: Tela de renovação de atividade e contrato
-- :exclamation: Link para renovação individual de ativdadade e contrato
 - :new: Inclusão de e-mail adicional para recebimento de cópia da credencial
 - :new: Reativação de conta desligada e reativação da identidade
 - :new: Tela de consulta similar à do SISGDI
