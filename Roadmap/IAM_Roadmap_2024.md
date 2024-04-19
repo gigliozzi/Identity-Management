@@ -17,27 +17,34 @@
 
 ### KPIs
 
-Terminamos o ano de 2023 com uma taxa de admissão consolidada de 75%, referindo-se apenas aos fluxo de admissão e revogação:
+Terminamos o ano de 2023 com uma taxa de automação consolidada de 75%.
 
-| Admissões 2023 | Solicitações         | Requisições                | Conversão                |
-| -------------- | -------------------- | -------------------------- | ------------------------ |
-| jan            | <center>185</center> | <center>158</center>       | <center>85%</center>     |
-| fev            | <center>307</center> | <center>141</center>       | <center>46%</center>     |
-| mar            | <center>359</center> | <center>259</center>       | <center>72%</center>     |
-|                |                      | <center>**Média**</center> | <center>**67%**</center> |
+**Admissões 2023 (consolidado)**
 
-Com os ajustes realizados, conseguimos aumentar, cerca de 11 pontos percentuais em relação ao ano anterior:
+| Solicitações          | Requisições           | Automação             |
+| --------------------- | --------------------- | --------------------- |
+| <center>3202</center> | <center>2317</center> | <center>~75%</center> |
 
-| Admissões 2024 | Solicitações         | Requisições                | Conversão                |
-| -------------- | -------------------- | -------------------------- | ------------------------ |
-| jan            | <center>48</center>  | <center>46</center>        | <center>96%</center>     |
-| fev            | <center>306</center> | <center>252</center>       | <center>82%</center>     |
-| mar            | <center>479</center> | <center>397</center>       | <center>83%</center>     |
-|                |                      | <center>**Média**</center> | <center>**87%**</center> |
+<details><summary><strong>Admissões 2023 (detalhado)</strong></summary>
+<br>
 
-| Redigido por             | Revisado por | Aprovado por |
-| ------------------------ | ------------ | ------------ |
-| <center>William</center> | Tainara      | PC           |
+|                            | Solicitações         | Requisições          | Automação                   |
+| -------------------------- | -------------------- | -------------------- | --------------------------- |
+| <center>Janeiro</center>   | <center>185 | <center>153</center> | <center>83%                 |
+| <center>Fevereiro</center> | <center>310</center> | <center>222</center> | <center>72%                 |
+| <center>Março</center>     | <center>359</center> | <center>263</center> | <center>73%                 |
+| <center>Abril</center>     | <center>499</center> | <center>346</center> | <center>69%                 |
+| <center>Maio</center>      | <center>286</center> | <center>188</center> | <center>66%                 |
+| <center>Junho</center>     | <center>240</center> | <center>158</center> | <center>66%                 |
+| <center>Julho</center>     | <center>155</center> | <center>88</center>  | <center>57%                 |
+| <center>Agosto</center>    | <center>388</center> | <center>314</center> | <center>81%                 |
+| <center>Setembro</center>  | <center>366</center> | <center>224</center> | <center>61%                 |
+| <center>Outubro</center>   | <center>294</center> | <center>253</center> | <center>86%                 |
+| <center>Novembro</center>  | <center>88</center>  | <center>77</center>  | <center>88%                 |
+| <center>Dezembro</center>  | <center>32</center>  | <center>31</center>  | <center>97%                 |
+|                            | <center>3202</center>         | <center>2327</center>         | <center><strong>75%<strong></center> |
+
+</details>
 
 <a id="metas">
 
