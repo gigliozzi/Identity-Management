@@ -8,6 +8,7 @@
 - [Metas](#metas)
 - [Admissão](#admissao)
 - [Revogação](#revogacao)
+- [Afastamento](#afast)
 - [Terceiros](#terceiros)
 - [Cofre de Senhas](#vault)
 - [Contas Privilegiadas](#privileged)
