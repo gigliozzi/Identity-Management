@@ -70,12 +70,12 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 - 🔃 Reformulação completa dos logs
 - 🔃 Identificação e tratamento de erros
 - 🆕 Comportamento dos fluxos manuais vs fluxos automáticos
-- 🆕 Aviso prévio (provisionamento agendandado)
+- 🆕 Aviso prévio (provisionamento agendandado) #22136
 
 <a id="afast">
 
 ### Afastamento
-- ❗ Controle de exceções para o afastamento
+- ❗ Controle de exceções para o afastamento #22135
 
 <a id="terceiros">
 
