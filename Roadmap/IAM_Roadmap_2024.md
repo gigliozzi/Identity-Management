@@ -57,9 +57,10 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Admissão
 
-- :heavy_check_mark: Primarização do terceiro (golive: 16.04.2024)
-- :heavy_check_mark: Contratação do estagiário (golive: 16.04.2024)
-- :arrows_counterclockwise: Geração de novas matrículas
+- :heavy_check_mark: Primarização do terceiro (#21413 golive: 16.04.2024 (entregável))
+- :heavy_check_mark: Contratação do estagiário (#21418 golive: 16.04.2024 - (entregável))
+- :arrows_counterclockwise: Geração de novas matrículas #21464 (entregável)
+- :arrows_counterclockwise: E-mail de boas-vindas #21475 (entregável)
 - :arrows_counterclockwise: Reformulação dos logs
 - :new: Criação de funcionários em massa
 
