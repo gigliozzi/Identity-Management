@@ -67,15 +67,16 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Revogação
 
-- Reformulação completa dos logs
-- Identificação e tratamento de erros
-- Normalização dos fluxos manuais vs fluxos automáticos
+- :arrows_counterclockwise: Reformulação completa dos logs
+- :arrows_counterclockwise: Identificação e tratamento de erros
+- :arrows_counterclockwise: Normalização dos fluxos manuais vs fluxos automáticos
+- 🆕 Aviso prévio 
 
 <a id="afast">
 
 ### Afastamento
 
-- Criação de um mapper de exceções
+- 🆕 Criação de um mapper de exceções #22135
 
 <a id="terceiros">
 
