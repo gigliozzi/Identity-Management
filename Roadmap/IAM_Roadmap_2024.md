@@ -8,6 +8,7 @@
 - [Metas](#metas)
 - [Admissão](#admissao)
 - [Revogação](#revogacao)
+- [Afastamento](#afast)
 - [Terceiros](#terceiros)
 - [Cofre de Senhas](#vault)
 - [Contas Privilegiadas](#privileged)
@@ -66,9 +67,15 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Revogação
 
-- Reformulação completa dos logs
-- Identificação e tratamento de erros
-- Comportamento dos fluxos manuais vs fluxos automáticos
+- 🔃 Reformulação completa dos logs
+- 🔃 Identificação e tratamento de erros
+- 🆕 Comportamento dos fluxos manuais vs fluxos automáticos
+- 🆕 Aviso prévio (provisionamento agendandado)
+
+<a id="afast">
+
+### Afastamento
+- ❗ Controle de exceções para o afastamento
 
 <a id="terceiros">
 
