@@ -17,27 +17,34 @@
 
 ### KPIs
 
-Terminamos o ano de 2023 com uma taxa de admissão consolidada de 75%, referindo-se apenas aos fluxo de admissão e revogação:
+Terminamos o ano de 2023 com uma taxa de automação consolidada de 75%.
 
-| Admissões 2023 | Solicitações         | Requisições                | Conversão                |
-| -------------- | -------------------- | -------------------------- | ------------------------ |
-| jan            | <center>185</center> | <center>158</center>       | <center>85%</center>     |
-| fev            | <center>307</center> | <center>141</center>       | <center>46%</center>     |
-| mar            | <center>359</center> | <center>259</center>       | <center>72%</center>     |
-|                |                      | <center>**Média**</center> | <center>**67%**</center> |
+**Admissões 2023 (consolidado)**
 
-Com os ajustes realizados, conseguimos aumentar, cerca de 11 pontos percentuais em relação ao ano anterior:
+| Solicitações          | Requisições           | Automação             |
+| --------------------- | --------------------- | --------------------- |
+| <center>3202</center> | <center>2317</center> | <center>~75%</center> |
 
-| Admissões 2024 | Solicitações         | Requisições                | Conversão                |
-| -------------- | -------------------- | -------------------------- | ------------------------ |
-| jan            | <center>48</center>  | <center>46</center>        | <center>96%</center>     |
-| fev            | <center>306</center> | <center>252</center>       | <center>82%</center>     |
-| mar            | <center>479</center> | <center>397</center>       | <center>83%</center>     |
-|                |                      | <center>**Média**</center> | <center>**87%**</center> |
+<details><summary><strong>Admissões 2023 (detalhado)</strong></summary>
+<br>
 
-| Redigido por             | Revisado por | Aprovado por |
-| ------------------------ | ------------ | ------------ |
-| <center>William</center> | Tainara      | PC           |
+|                            | Solicitações         | Requisições          | Automação                   |
+| -------------------------- | -------------------- | -------------------- | --------------------------- |
+| <center>Janeiro</center>   | <center>185</center> | <center>153</center> | <center>83%                 |
+| <center>Fevereiro</center> | <center>310</center> | <center>222</center> | <center>72%                 |
+| <center>Março</center>     | <center>359</center> | <center>263</center> | <center>73%                 |
+| <center>Abril</center>     | <center>499</center> | <center>346</center> | <center>69%                 |
+| <center>Maio</center>      | <center>286</center> | <center>188</center> | <center>66%                 |
+| <center>Junho</center>     | <center>240</center> | <center>158</center> | <center>66%                 |
+| <center>Julho</center>     | <center>155</center> | <center>88</center>  | <center>57%                 |
+| <center>Agosto</center>    | <center>388</center> | <center>314</center> | <center>81%                 |
+| <center>Setembro</center>  | <center>366</center> | <center>224</center> | <center>61%                 |
+| <center>Outubro</center>   | <center>294</center> | <center>253</center> | <center>86%                 |
+| <center>Novembro</center>  | <center>88</center>  | <center>77</center>  | <center>88%                 |
+| <center>Dezembro</center>  | <center>32</center>  | <center>31</center>  | <center>97%                 |
+|                            | <center>3202         | <center>2327         | <center><strong>75%<strong> |
+
+</details>
 
 <a id="metas">
 
@@ -49,11 +56,11 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Admissão
 
-- Primarização do terceiro :arrows_counterclockwise:
-- Primarização do estagiário :arrows_counterclockwise:
-- Geração de novas matrículas :arrows_counterclockwise:
-- Reformulação dos logs :arrows_counterclockwise:
-- Criação de funcionários em massa :new:
+- :heavy_check_mark: Primarização do terceiro (golive: 16.04.2024)
+- :heavy_check_mark: Contratação do estagiário (golive: 16.04.2024)
+- :arrows_counterclockwise: Geração de novas matrículas
+- :arrows_counterclockwise: Reformulação dos logs
+- :new: Criação de funcionários em massa
 
 <a id="revogacao">
 
@@ -61,7 +68,7 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 - Reformulação completa dos logs
 - Identificação e tratamento de erros
-- Comportamento dos fluxos manuais vs fluxos automáticos
+- Normalização dos fluxos manuais vs fluxos automáticos
 
 <a id="terceiros">
 
@@ -71,9 +78,9 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 - :heavy_check_mark: Tela criação em massa
 - :heavy_check_mark: Criação da conta no AD
 - :heavy_check_mark: Disparo da credencial por e-mail
-- :exclamation: Notificação de expiração por fim de atividade #21761
+- :heavy_check_mark: Link para revalidação do acesso (o que acontece com o contrato?)
+- :heavy_check_mark: Notificação de expiração por fim de atividade #21761
 - :exclamation: Tela de renovação de atividade e contrato
-- :exclamation: Link para renovação individual de ativdadade e contrato
 - :new: Inclusão de e-mail adicional para recebimento de cópia da credencial
 - :new: Reativação de conta desligada e reativação da identidade
 - :new: Tela de consulta similar à do SISGDI
