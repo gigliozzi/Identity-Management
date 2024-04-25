@@ -71,6 +71,12 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 - Identificação e tratamento de erros
 - Normalização dos fluxos manuais vs fluxos automáticos
 
+<a id="afast">
+
+### Afastamento
+
+- Criação de um mapper de exceções
+
 <a id="terceiros">
 
 ### Terceiros
