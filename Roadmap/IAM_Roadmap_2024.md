@@ -115,6 +115,10 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 - Fluxo de aprovação
 - Fluxo de revisão
 
+### Grupos privilegiados
+
+- Controle (melhores práticas)
+
 <a id="sia">
 
 ### Sistema de Informações Acadêmicas (SIA)
