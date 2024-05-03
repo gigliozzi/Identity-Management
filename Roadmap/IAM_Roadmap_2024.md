@@ -57,21 +57,21 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Admissão
 
-- :heavy_check_mark: Primarização do terceiro (#21413 golive: 16.04.2024 (entregável))
-- :heavy_check_mark: Contratação do estagiário (#21418 golive: 16.04.2024 - (entregável))
-- :arrows_counterclockwise: Geração de novas matrículas #21464 (entregável)
-- :arrows_counterclockwise: E-mail de boas-vindas #21475 (entregável)
-- :arrows_counterclockwise: Reformulação dos logs
-- :new: Criação de funcionários em massa
+- :heavy_check_mark: Primarização do terceiro #21413 golive: 16.04.2024 (entregável)
+- :heavy_check_mark: Contratação do estagiário #21418 golive: 16.04.2024 - (entregável)
+- :arrows_counterclockwise: Geração de novas matrículas #21464 [29.05.2024]  (entregável)
+- :arrows_counterclockwise: E-mail de boas-vindas #21475 [08.05.2024] (entregável)
+- :arrows_counterclockwise: Reformulação dos logs 
+- :new: Criação de funcionários em massa #21764 (entregável)
 
 <a id="revogacao">
 
 ### Revogação
 
-- :arrows_counterclockwise: Reformulação completa dos logs
-- :arrows_counterclockwise: Identificação e tratamento de erros
-- :arrows_counterclockwise: Normalização dos fluxos manuais vs fluxos automáticos
-- 🆕 Aviso prévio 
+- :arrows_counterclockwise: Reformulação completa dos logs #21740 [22.05.2024]
+  - 🔄 Identificação e tratamento de erros
+  - 🔄 Normalização dos fluxos manuais vs fluxos automáticos
+- 🆕 Aviso prévio #22136
 
 <a id="afast">
 
