@@ -53,12 +53,27 @@ Terminamos o ano de 2023 com uma taxa de automação consolidada de 75%.
 
 A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95% para os fluxos de admissão e revogação.
 
-<a id="admissao">
+<a id="lastdelivery">
 
+### Entregas anteriores
+
+- ✔️ Admissão (2022)
+- ✔️ Revogação (2022)
+- ✔️ Férias (2022-23)
+- ✔️ Whitelist férias (2022)
+- ✔️ Afastamento (2022)
+- ✔️ Update (2023)
+- ✔️ Global_ID (2023)
+
+### Últimas Entregas
+
+- ✔️ Primarização do terceiro golive: 16.04.2024 
+- ✔️ Contratação do estagiário golive: 16.04.2024
+
+<a id="admissao">
+  
 ### Admissão
 
-- ✔️ Primarização do terceiro #21413 golive: 16.04.2024 (entregável)
-- ✔️ Contratação do estagiário #21418 golive: 16.04.2024 - (entregável)
 - 🔄 Novas matrículas #21464 [29.05.2024]  (entregável)
 - 🔄 E-mail de boas-vindas #21475 [08.05.2024] (entregável)
 - 🔄 Senha da Credencial #21480 [08.05.2024] (entregável)
