@@ -115,9 +115,7 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Revogação (Melhorias)
 
-- 🔄 Melhorias #21740 [22.05.2024]
-  - 🔄 Reformulação dos logs 
-  - 🔄 Identificação e tratamento de erros
+- 🔄 Correção de erros e reformulação dos logs #21740 [22.05.2024]
 - 🆕 Equalização entre fluxos manuais vs fluxos automáticos (se possível todos os atributos editáveis do AD)
 - 🆕 Aviso prévio #22136
 
