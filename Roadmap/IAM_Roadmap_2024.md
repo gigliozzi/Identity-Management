@@ -26,6 +26,7 @@ Terminamos o ano de 2023 com uma taxa de automação consolidada de 75% para adm
 | --------------------- | --------------------- | --------------------- |
 | <center>3202</center> | <center>2317</center> | <center>~75%</center> |
 
+<br>
 <details><summary><strong>Admissões 2023 (detalhado)</strong></summary>
 <br>
 
@@ -47,12 +48,15 @@ Terminamos o ano de 2023 com uma taxa de automação consolidada de 75% para adm
 
 </details>
 
+<br>
+
 **Revogação 2023 (consolidado)**
 
 | Solicitações          | Requisições           | Automação             |
 | --------------------- | --------------------- | --------------------- |
 | <center>3893</center> | <center>2617</center> | <center>~66%</center> |
 
+<br>
 <details><summary><strong>Revogação 2023 (detalhado)</strong></summary>
 <br>
 
@@ -166,3 +170,5 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 <a id="sia">
 
 ### Sistema de Informações Acadêmicas (SIA)
+- Usuários
+- Perfis
