@@ -18,9 +18,9 @@
 
 ### KPIs
 
-Terminamos o ano de 2023 com uma taxa de automação consolidada de 75%.
+Terminamos o ano de 2023 com uma taxa de automação consolidada de 75% para admissão e 66% para revogação. 
 
-**Admissões 2023 (consolidado)**
+**Admissão 2023 (consolidado)**
 
 | Solicitações          | Requisições           | Automação             |
 | --------------------- | --------------------- | --------------------- |
@@ -46,6 +46,34 @@ Terminamos o ano de 2023 com uma taxa de automação consolidada de 75%.
 |                            | <center>3202         | <center>2327         | <center><strong>75%<strong> |
 
 </details>
+
+**Revogação 2023 (consolidado)**
+
+| Solicitações          | Requisições           | Automação             |
+| --------------------- | --------------------- | --------------------- |
+| <center>3893</center> | <center>2617</center> | <center>~66%</center> |
+
+<details><summary><strong>Revogação 2023 (detalhado)</strong></summary>
+<br>
+
+|                            | Solicitações         | Requisições          | Automação                   |
+| -------------------------- | -------------------- | -------------------- | --------------------------- |
+| <center>Janeiro</center>   | <center>185</center> | <center>158</center> | <center>85%                 |
+| <center>Fevereiro</center> | <center>307</center> | <center>141</center> | <center>46%                 |
+| <center>Março</center>     | <center>359</center> | <center>259</center> | <center>72%                 |
+| <center>Abril</center>     | <center>348</center> | <center>348</center> | <center>70%                 |
+| <center>Maio</center>      | <center>175</center> | <center>175</center> | <center>100%                 |
+| <center>Junho</center>     | <center>205</center> | <center>162</center> | <center>79%               |
+| <center>Julho</center>     | <center>341</center> | <center>278</center>  | <center>82%                 |
+| <center>Agosto</center>    | <center>265</center> | <center>208</center> | <center>78%                 |
+| <center>Setembro</center>  | <center>259</center> | <center>200</center> | <center>77%                 |
+| <center>Outubro</center>   | <center>224</center> | <center>67</center> | <center>30%                 |
+| <center>Novembro</center>  | <center>171</center>  | <center>75</center>  | <center>44%                 |
+| <center>Dezembro</center>  | <center>792</center>  | <center>546</center>  | <center>69%                 |
+|                            | <center>3631         | <center>2327         | <center><strong>~66%<strong> |
+
+</details>
+
 
 <a id="metas">
 
