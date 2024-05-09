@@ -104,7 +104,7 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 <a id="admissao">
   
-### Admissão
+### Admissão (Melhorias)
 
 - 🔄 Novas matrículas #21464 [29.05.2024]  (entregável)
 - 🔄 E-mail de boas-vindas #21475 [08.05.2024] (entregável)
@@ -113,7 +113,7 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 <a id="revogacao">
 
-### Revogação
+### Revogação (Melhorias)
 
 - 🔄 Melhorias #21740 [22.05.2024]
   - 🔄 Reformulação dos logs 
@@ -131,23 +131,23 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Terceiros
 
-- :heavy_check_mark: Tela de criação individual
-- :heavy_check_mark: Tela criação em massa
-- :heavy_check_mark: Criação da conta no AD
-- :heavy_check_mark: Disparo da credencial por e-mail
-- :heavy_check_mark: Link para revalidação do acesso (o que acontece com o contrato?)
-- :heavy_check_mark: Notificação de expiração por fim de atividade #21761
-- :exclamation: Tela de renovação de atividade e contrato
-- :new: Inclusão de e-mail adicional para recebimento de cópia da credencial
-- :new: Reativação de conta desligada e reativação da identidade
-- :new: Tela de consulta similar à do SISGDI
-- :new: Migração do banco de dados do SISGDI (Alarmes do BI)
-- :new: Trilha no Service Now
-- :new: Validação de CPF
-- :new: Customização da mensagem de erro na importação
-- :new: Tela com visibilidade (30/60/90) dos terceiros que estão prestes a vencer
-- :new: Tela para renovação múltipla
-- :new: Inclusão de campos no cadastro do terceiro: `Modelo de contratação, Area contratante, Area de Atuação, Contrato SAP, Ccusto Contrato`
+- ✔️ Tela de criação individual
+- ✔️ Tela criação em massa
+- ✔️ Criação da conta no AD
+- ✔️ Disparo da credencial por e-mail
+- ✔️ Link para revalidação do acesso (o que acontece com o contrato?)
+- ✔️ Notificação de expiração por fim de atividade #21761
+- ✔️ Tela de renovação de atividade e contrato
+- 🆕 Inclusão de e-mail adicional para recebimento de cópia da credencial
+- 🆕 Reativação de conta desligada e reativação da identidade
+- 🆕 Tela de consulta similar à do SISGDI
+- 🆕 Migração do banco de dados do SISGDI (Alarmes do BI)
+- 🆕 Trilha no Service Now
+- 🆕 Validação de CPF
+- 🆕 Customização da mensagem de erro na importação
+- 🆕 Tela com visibilidade (30/60/90) dos terceiros que estão prestes a vencer
+- 🆕 Tela para renovação múltipla
+- 🆕 Inclusão de campos no cadastro do terceiro: `Modelo de contratação, Area contratante, Area de Atuação, Contrato SAP, Ccusto Contrato`
 
 <a id="vault">
 
