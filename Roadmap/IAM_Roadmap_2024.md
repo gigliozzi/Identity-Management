@@ -133,9 +133,9 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 - ✔️ Tela criação em massa
 - ✔️ Criação da conta no AD
 - ✔️ Disparo da credencial por e-mail
-- ✔️ Link para revalidação do acesso (o que acontece com o contrato?)
-- ✔️ Notificação de expiração por fim de atividade #21761
-- ✔️ Tela de renovação de atividade e contrato
+- ❗ Link para revalidação do acesso (o que acontece com o contrato?)
+- ❗ Notificação de expiração por fim de atividade #21761
+- ❗ Tela de renovação de atividade e contrato
 - 🆕 Inclusão de e-mail adicional para recebimento de cópia da credencial
 - 🆕 Reativação de conta desligada e reativação da identidade
 - 🆕 Tela de consulta similar à do SISGDI
