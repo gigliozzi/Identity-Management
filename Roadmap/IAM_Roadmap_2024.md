@@ -144,7 +144,7 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 - 🆕 Validação de CPF
 - 🆕 Customização da mensagem de erro na importação
 - 🆕 Tela com visibilidade (30/60/90) dos terceiros que estão prestes a vencer
-- 🆕 Tela para renovação múltipla
+- 🆕 Tela para renovação múltipla (para o gestor)
 - 🆕 Inclusão de campos no cadastro do terceiro: `Modelo de contratação, Area contratante, Area de Atuação, Contrato SAP, Ccusto Contrato`
 
 <a id="vault">
