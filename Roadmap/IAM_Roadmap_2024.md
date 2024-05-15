@@ -106,9 +106,9 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
   
 ### Admissão (Melhorias)
 
-- 🔄 Novas matrículas #21464 [29.05.2024]  (entregável)
-- 🔄 E-mail de boas-vindas #21475 [08.05.2024] (entregável)
-- 🔄 Senha da Credencial #21480 [08.05.2024] (entregável)
+- 🔄 Novas matrículas #21464 [08.05.2024]  (entregável) ⏱️
+- 🔄 E-mail de boas-vindas #21475 [08.05.2024] (entregável) ⏱️
+- 🔄 Senha da Credencial #21480 [03.06.2024] (entregável)
 - 🆕 Criação de funcionários em massa #21764 (entregável)
 
 <a id="revogacao">
