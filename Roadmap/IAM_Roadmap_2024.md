@@ -11,7 +11,8 @@
 - [Afastamento](#afast)
 - [Terceiros](#terceiros)
 - [Cofre de Senhas](#vault)
-- [Contas Privilegiadas](#privileged)
+- [Contas Privilegiadas](#privileged_accounts)
+- [Grupos Privilegiados](#privileged_groups)
 - [Sistema de Informações Acadêmicas (SIA)](#sia)
 
 <a id="kpis">
@@ -153,7 +154,7 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 - Connexão do IAM via cofre
 
-<a id="privileged">
+<a id="privileged_accounts">
 
 ### Contas Privilegiadas
 
@@ -161,6 +162,8 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 - Fluxo de aprovação
 - Fluxo de revisão
 
+<a id="privileged_groups">
+  
 ### Grupos privilegiados
 
 - Controle (melhores práticas)
