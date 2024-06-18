@@ -1,0 +1,72 @@
+[
+  {
+    "sigla": "AT",
+    "acao": "skip",
+    "descricao": "1- Atestado Médico"
+  },
+  {
+    "sigla": "BE",
+    "acao": "block",
+    "descricao": "2- Auxílio Doença"
+  },
+  {
+    "sigla": "LG",
+    "acao": "aguarda definição",
+    "descricao": "3- Licença Gala"
+  },
+  {
+    "sigla": "LN",
+    "acao": "aguarda definição",
+    "descricao": "4- Licença não Remunerada"
+  },
+  {
+    "sigla": "LP",
+    "acao": "aguarda definição",
+    "descricao": "5- Licença Paternidade"
+  },
+  {
+    "sigla": "LR",
+    "acao": "aguarda definição",
+    "descricao": "6- Licença Remunerada"
+  },
+  {
+    "sigla": "NJ",
+    "acao": "aguarda definição",
+    "descricao": "7- Licença Nojo"
+  },
+  {
+    "sigla": "RC",
+    "acao": "aguarda definição",
+    "descricao": "8- Recesso/Repouso"
+  },
+  {
+    "sigla": "SM",
+    "acao": "aguarda definição",
+    "descricao": "9- Serviço Militar"
+  },
+  {
+    "sigla": "SC",
+    "acao": "aguarda definição",
+    "descricao": "10- Suspensão de Contrato de Trabalho"
+  },
+  {
+    "sigla": "SE",
+    "acao": "aguarda definição",
+    "descricao": "11- Seguro Acidente de Trabalho"
+  },
+  {
+    "sigla": "SN",
+    "acao": "aguarda definição",
+    "descricao": "12- Licença Sindical Não Remunerada"
+  },
+  {
+    "sigla": "SR",
+    "acao": "aguarda definição",
+    "descricao": "13- Licença Sindical Remunerada"
+  },
+  {
+    "sigla": "SN",
+    "acao": "block",
+    "descricao": "14- Licença Maternidade"
+  }
+]
