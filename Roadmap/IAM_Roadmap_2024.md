@@ -9,6 +9,7 @@
 - [Admissão](#admissao)
 - [Revogação](#revogacao)
 - [Afastamento](#afast)
+- [Férias](#ferias)
 - [Terceiros](#terceiros)
 - [Cofre de Senhas](#vault)
 - [Contas Privilegiadas](#privileged)
@@ -105,6 +106,13 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 ### Afastamento
 
 - 🆕 Criação de um mapper de exceções #22135
+
+<a id="ferias">
+
+### Férias
+
+- 🆕 Criação de um mapper de exceções #xxx
+- 🆕 O IAM deve funcionar como base autoritativa: precisar monitorar, alarmar e reverter alterações indevidas no sistemas (AD e outros)
 
 <a id="terceiros">
 
