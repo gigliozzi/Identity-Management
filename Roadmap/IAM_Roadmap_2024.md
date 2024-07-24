@@ -111,6 +111,7 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Férias
 
+- 🆕 Remover da US a cláusula que impede a leitura de docentes "P" no fluxo
 - 🆕 Criação de um mapper de exceções #xxx
 - 🆕 O IAM deve funcionar como base autoritativa: precisar monitorar, alarmar e reverter alterações indevidas no sistemas (AD e outros)
 
