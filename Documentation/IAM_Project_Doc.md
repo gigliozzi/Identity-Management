@@ -4,12 +4,12 @@
 
 ## Índice
 
-[Servidores](#servers)
-[VPN](#vpn)
-[Fluxos](#flows)
-[Admissão](#admittance)
-[Contas privilegiadas](#adminAccounts)
-[Contas .ADMIN](#adminAccounts)
+- [Servidores](#servers)
+- [VPN](#vpn)
+- [Fluxos](#flows)
+- [Admissão](#admittance)
+- [Contas privilegiadas](#adminAccounts)
+- [Contas .ADMIN](#adminAccounts)
 
 <a id="servers"></a>
 
