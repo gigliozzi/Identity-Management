@@ -87,16 +87,16 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 - :heavy_check_mark: Primarização do terceiro (#21413 golive: 16.04.2024 (entregável))
 - :heavy_check_mark: Contratação do estagiário (#21418 golive: 16.04.2024 - (entregável))
-- :arrows_counterclockwise: Geração de novas matrículas #21464 (entregável)
-- :arrows_counterclockwise: E-mail de boas-vindas #21475 (entregável)
-- :arrows_counterclockwise: Reformulação dos logs
+- 🔄 Geração de novas matrículas #21464 (entregável)
+- 🔄 E-mail de boas-vindas #21475 (entregável)
+- 🔄 Melhoria dos logs #23012
 - 🆕 Criação de funcionários em massa
 
 <a id="revogacao">
 
 ### Revogação
 
-- :arrows_counterclockwise: Reformulação completa dos logs
+- :arrows_counterclockwise: Melhoria dos logs #21471
 - :arrows_counterclockwise: Identificação e tratamento de erros
 - :arrows_counterclockwise: Normalização dos fluxos manuais vs fluxos automáticos
 - 🆕 Aviso prévio
@@ -105,12 +105,13 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Afastamento
 
-- 🆕 Criação de um mapper de exceções #22135
+- 🔄 Criação de um mapper de exceções #22135 (go live programado para 29/07/2024)
 
 <a id="ferias">
 
 ### Férias
 
+- 🆕 Remover da US a cláusula que impede a leitura de docentes "P" no fluxo
 - 🆕 Criação de um mapper de exceções #xxx
 - 🆕 O IAM deve funcionar como base autoritativa: precisar monitorar, alarmar e reverter alterações indevidas no sistemas (AD e outros)
 
