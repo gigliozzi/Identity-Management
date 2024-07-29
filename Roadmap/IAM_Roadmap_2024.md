@@ -96,7 +96,7 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Revogação
 
-- :arrows_counterclockwise: Reformulação completa dos logs
+- :arrows_counterclockwise: Melhoria dos logs #21471
 - :arrows_counterclockwise: Identificação e tratamento de erros
 - :arrows_counterclockwise: Normalização dos fluxos manuais vs fluxos automáticos
 - 🆕 Aviso prévio
