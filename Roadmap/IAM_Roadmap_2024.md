@@ -105,7 +105,7 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 ### Afastamento
 
-- 🆕 Criação de um mapper de exceções #22135
+- 🔄 Criação de um mapper de exceções #22135 (go live programado para 29/07/2024)
 
 <a id="ferias">
 
