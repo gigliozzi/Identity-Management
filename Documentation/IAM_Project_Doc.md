@@ -1,4 +1,4 @@
-![image](fingerprint-svgrepo-com_sm.svg)
+![image](../Roadmap/assets/fingerprint-svgrepo-com_sm.svg)
 
 # IAM Project Doc
 
