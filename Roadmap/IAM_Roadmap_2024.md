@@ -97,8 +97,8 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 ### Revogação
 
 - :arrows_counterclockwise: Melhoria dos logs #21471
-- 🆕 Normalização dos fluxos manuais vs fluxos automáticos
-- 🆕 Aviso prévio
+- 🆕 Normalização dos fluxos manuais vs fluxos automáticos (permitir que a operação manual via help desk, aplique as mesmas alterações que o fluxo automático, a exemplo do campo FAX)
+- 🆕 Aviso prévio (Caso o IAM detectar data de desligamento no futuro, gerar requisição agendada para aplicação futura)
 
 <a id="afast">
 
