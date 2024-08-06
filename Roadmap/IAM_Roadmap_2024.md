@@ -87,44 +87,43 @@ A administração de SI estabeleceu como alvo para 2024 o atingimento da meta 95
 
 - :heavy_check_mark: Primarização do terceiro (#21413 golive: 16.04.2024 (entregável))
 - :heavy_check_mark: Contratação do estagiário (#21418 golive: 16.04.2024 - (entregável))
+- ✔️ E-mail de boas-vindas #21475 (entregável)
 - 🔄 Geração de novas matrículas #21464 (entregável)
-- 🔄 E-mail de boas-vindas #21475 (entregável)
 - 🔄 Melhoria dos logs #23012
-- 🆕 Criação de funcionários em massa
+- 🆕 Criação de funcionários em massa através da interface do IAM
 
 <a id="revogacao">
 
 ### Revogação
 
 - :arrows_counterclockwise: Melhoria dos logs #21471
-- :arrows_counterclockwise: Identificação e tratamento de erros
-- :arrows_counterclockwise: Normalização dos fluxos manuais vs fluxos automáticos
+- 🆕 Normalização dos fluxos manuais vs fluxos automáticos
 - 🆕 Aviso prévio
 
 <a id="afast">
 
 ### Afastamento
 
-- 🔄 Criação de um mapper de exceções #22135 (go live programado para 29/07/2024)
+- ✔️ Criação de um mapper de exceções #22135 (go live programado para 29/07/2024)
 
 <a id="ferias">
 
 ### Férias
 
+- 🔄 Criação de um mapper de exceções #22526
 - 🆕 Remover da US a cláusula que impede a leitura de docentes "P" no fluxo
-- 🆕 Criação de um mapper de exceções #xxx
 - 🆕 O IAM deve funcionar como base autoritativa: precisar monitorar, alarmar e reverter alterações indevidas no sistemas (AD e outros)
 
 <a id="terceiros">
 
 ### Terceiros
 
-- :heavy_check_mark: Tela de criação individual
-- :heavy_check_mark: Tela criação em massa
-- :heavy_check_mark: Criação da conta no AD
-- :heavy_check_mark: Disparo da credencial por e-mail
-- :heavy_check_mark: Link para revalidação do acesso (o que acontece com o contrato?)
-- :heavy_check_mark: Notificação de expiração por fim de atividade #21761
+- ✔️ Tela de criação individual
+- ✔️ Tela criação em massa
+- ✔️ Criação da conta no AD
+- ✔️ Disparo da credencial por e-mail
+- ⏸️ Link para revalidação do acesso (o que acontece com o contrato?)
+- ⏸️ Notificação de expiração por fim de atividade #21761
 - :exclamation: Tela de renovação de atividade e contrato
 - 🆕 Inclusão de e-mail adicional para recebimento de cópia da credencial
 - 🆕 Reativação de conta desligada e reativação da identidade
