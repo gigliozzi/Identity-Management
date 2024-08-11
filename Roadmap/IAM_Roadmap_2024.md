@@ -23,14 +23,14 @@ Terminamos o ano de 2023 com uma taxa de automação consolidada de 75%.
 
 **Admissões 2023 (consolidado)**
 
-| Solicitações          | Requisições           | Automação             |
+| Solicitações          | Requisições           | % Automação             |
 | --------------------- | --------------------- | --------------------- |
 | <center>3202</center> | <center>2317</center> | <center>~75%</center> |
 
 <details><summary><strong>Admissões 2023 (detalhado)</strong></summary>
 <br>
 
-|                            | Solicitações         | Requisições          | Automação                   |
+|                            | Solicitações         | Requisições          | % Automação                   |
 | -------------------------- | -------------------- | -------------------- | --------------------------- |
 | <center>Janeiro</center>   | <center>185</center> | <center>153</center> | <center>83%                 |
 | <center>Fevereiro</center> | <center>310</center> | <center>222</center> | <center>72%                 |
@@ -50,14 +50,14 @@ Terminamos o ano de 2023 com uma taxa de automação consolidada de 75%.
 
 **Revogação 2023 (consolidado)**
 
-| Solicitações          | Requisições           | Automação             |
+| Solicitações          | Requisições           | % Automação             |
 | --------------------- | --------------------- | --------------------- |
 | <center>3893</center> | <center>2617</center> | <center>~66%</center> |
 
 <details><summary><strong>Revogação 2023 (detalhado)</strong></summary>
 <br>
 
-|                            | Solicitações         | Requisições          | Automação                   |
+|                            | Solicitações         | Requisições          | % Automação                   |
 | -------------------------- | -------------------- | -------------------- | --------------------------- |
 | <center>Janeiro</center>   | <center>185</center> | <center>158</center> | <center>85%                 |
 | <center>Fevereiro</center> | <center>307</center> | <center>141</center> | <center>46%                 |
