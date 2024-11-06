@@ -34,7 +34,6 @@ QA: 10.200.0.37
 | Admissão      | 05:00 / 17:00 |
 | Férias        | 07:00         |
 | Revogação¹    | 03:00         |
-| Revogação²    | 15:00         |
 | Update        | 21:00         |
 | Afastamento   | 08:00         |
 
