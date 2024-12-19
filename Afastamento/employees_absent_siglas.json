@@ -15,6 +15,11 @@
     "descricao": "3- Licença Gala"
   },
   {
+    "sigla": "LM",
+    "acao": "block",
+    "descricao": "Licença Maternidade"
+    },
+  {
     "sigla": "LN",
     "acao": "aguarda definição",
     "descricao": "4- Licença não Remunerada"
